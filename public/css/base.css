@@ -1619,10 +1619,10 @@
 
 	body {
 		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #2196F3 15%, #3F51B5 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #2196F3 15%, #3F51B5 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #2196F3 15%, #3F51B5 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #2196F3 15%, #3F51B5 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #a89cc8 15%, #dddddd 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #a89cc8 15%, #dddddd 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #a89cc8 15%, #dddddd 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #a89cc8 15%, #dddddd 85%);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2013,7 +2013,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #8cc9f0;
+			background-color: #a02667;
 			color: #ffffff !important;
 			box-shadow: none;
 		}
@@ -2023,7 +2023,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #9acff2;
+				background-color: #bf7da1;
 			}
 
 			input[type="submit"].special:active,
@@ -2031,7 +2031,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #7ec3ee;
+				background-color: #a02667;
 			}
 
 			input[type="submit"].special.icon:before,
@@ -3248,7 +3248,7 @@
 		}
 		.nav-active {
 			color: #fff;
-			background-color: #8cc9f0;
+			background-color: #a02667;
 		}
 		#nav strong, #nav b {
 			color: #636363;
@@ -3307,7 +3307,7 @@
 				}
 
 					#nav ul li a:hover {
-						background-color: #8cc9f0;
+						background-color: #a02667;
 					}
 
 					#nav ul li a.active {
@@ -3425,7 +3425,7 @@
 			#main input[type="button"].special,
 			#main button.special,
 			#main .button.special {
-				background-color: #8cc9f0;
+				background-color: #a02667;
 				color: #ffffff !important;
 				box-shadow: none;
 			}
@@ -3435,7 +3435,7 @@
 				#main input[type="button"].special:hover,
 				#main button.special:hover,
 				#main .button.special:hover {
-					background-color: #9acff2;
+					background-color: #bf7da1;
 				}
 
 				#main input[type="submit"].special:active,
@@ -3443,7 +3443,7 @@
 				#main input[type="button"].special:active,
 				#main button.special:active,
 				#main .button.special:active {
-					background-color: #7ec3ee;
+					background-color: #a02667;
 				}
 
 				#main input[type="submit"].special.icon:before,
